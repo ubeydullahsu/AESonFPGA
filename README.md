@@ -1,3 +1,9 @@
 # AESonFPGA
 
-BY DERYA KARA AND GOKCE NUR BEKEN
+BY
+
+DERYA KARA 
+itsddkara@gmail.com
+
+GOKCE NUR BEKEN
+gokcenurbeken@gmail.com

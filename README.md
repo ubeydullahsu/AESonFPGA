@@ -3,7 +3,7 @@
 BY
 
 DERYA KARA 
-itsddkara@gmail.com
+justddkara@gmail.com
 
 GOKCE NUR BEKEN
 gokcenurbeken@gmail.com
